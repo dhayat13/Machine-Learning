@@ -710,4 +710,4 @@ It seems our model has maximum number of incorrect predictions for Basal cell ca
 
 I think still this model is efficient in comparison to detection with human eyes having 79.039% accuracy
 
-Demo on Streamlit [HERE!](http://f9230c39f643.ngrok.io)
+Demo on Streamlit [HERE!](http://ca4ea4c81531.ngrok.io)
